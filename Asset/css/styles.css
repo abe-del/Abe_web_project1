@@ -1,0 +1,157 @@
+header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+    nav {
+        margin: 20px;
+        text-align: center;
+    
+    }
+    
+    nav ul {
+        list-style-type: none;
+    }
+    
+    nav ul li {
+        display: inline;
+        margin: 0 15px;
+    }
+    
+    nav ul li a {
+        text-decoration: none;
+        color: #4CAF50;
+    }
+    nav ul li a:hover{
+        background-color: burlywood;
+        color:#333;
+        padding:10px;
+    
+    }
+    
+    .headerTxt{
+        align-items: center;
+    }
+    
+    .addisList{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content:space-between;
+    }
+    
+    .addisContent{
+        width: 50%;
+    }
+    
+    .addisImage{
+        margin-top: 130px;
+    }
+    
+    .marie{
+     color: blue;
+    }
+    
+    .marriage{
+        display: flex;
+        
+        justify-content: center;
+    }
+    
+    .b1{
+        color: red;
+    }
+    
+    .baptism{
+        width: 50%;
+    }
+    
+    .baptisimImg{
+        display: flex;
+        justify-content: center;
+    }
+    .c1{
+        color:brown
+    }
+    
+    
+    .ca1{
+        color:blue;
+    }
+    
+    .lideta{
+        display: flex;
+       justify-content:center;
+    }
+    .laithy{
+        display:flex;
+        justify-content:center;
+    
+    }
+    .chad{
+        color:green;
+    }
+    .youth{
+        color:red;
+    }
+    .laithy{
+        color:brown;
+        justify-content:left;
+    }
+    .eparchy{
+        color:blueviolet
+    }
+    .parishes{
+        color:rgb(73, 199, 130)
+    }
+    .child{
+        display:flex;
+        justify-content: center;
+    }
+    .scout{
+        display:flex;
+        justify-content: right;
+    
+    }
+    .communion{
+        align-content:right;
+        width:50%;
+    }
+    
+    .Communion-img{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    
+    .first{
+        display:flex;
+        justify-content: right;
+    }
+    
+    
+    
+        .cementery-img{
+            display: flex;
+        
+    }
+    .death{
+        color:brown;
+    }
+    .p1{
+        text-align:center;
+        background-color:#11832ad3;
+        padding:20px;
+        color:white;
+        font-size:x-large;
+    }
+        
+    .p2{
+        text-align:leftt;
+        color:rgb(11, 12, 12);
+        padding:50px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    
+    
